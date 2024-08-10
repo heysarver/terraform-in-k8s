@@ -2,7 +2,7 @@
 
 Run the BUSL version of terraform in kubernetes.
 
-Resources Used:
+## Resources Used
 - Atlantis
 - Github Actions
 - Helm
